@@ -57,9 +57,9 @@ In summary, the project aims to create a comprehensive Smart Cab Allocation Syst
 
 - The cab booking system employs a robust **static authentication mechanism** for secure access. Users authenticate with a unique username and password before booking a cab.
 
-![Authentication Successful](C:\Users\MANSI KAIN\Downloads\SmartCabAllocationSystem-master\SmartCabAllocationSystem-master\Images\img2.jpg)
+![Authentication Successful](https://github.com/Mansi-Kain/SmartCabAllocationSystem/blob/master/SmartCabAllocationSystem-master/SmartCabAllocationSystem-master/Images/img2.jpg)
 
-![Authentication Failure](C:\Users\MANSI KAIN\Downloads\SmartCabAllocationSystem-master\SmartCabAllocationSystem-master\Images\img1.jpg)
+![Authentication Failure](https://github.com/Mansi-Kain/SmartCabAllocationSystem/blob/master/SmartCabAllocationSystem-master/SmartCabAllocationSystem-master/Images/img1.jpg)
 
 ### Cost Estimation
 
@@ -115,7 +115,7 @@ cd SmartCabAllocationSystem
 
 - Initial cab locations with latitude and longitude. Additional cabs can be added as needed.
 
-![Cab Initial Locations](C:\Users\MANSI KAIN\Downloads\SmartCabAllocationSystem-master\SmartCabAllocationSystem-master\Images\img3.jpg)
+![Cab Initial Locations](https://github.com/Mansi-Kain/SmartCabAllocationSystem/blob/master/SmartCabAllocationSystem-master/SmartCabAllocationSystem-master/Images/img3.jpg)
 
 - User authentication and current location input. CLI tool prompts users for preferences.
 
