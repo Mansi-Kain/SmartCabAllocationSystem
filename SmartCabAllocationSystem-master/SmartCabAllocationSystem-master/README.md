@@ -127,9 +127,6 @@ cd SmartCabAllocationSystem
 
 2. Request a Cab - Displays the best cab and fare based on the current location, asking users if they want to book.
 
-![
-
-Request a Cab](https://github.com/aniket2405/SmartCabAllocationSystem/assets/64733221/0a1eb634-ecd2-4287-9d04-b9519060fb54)
 
 ![Cab Booking Confirmation](https://github.com/aniket2405/SmartCabAllocationSystem/assets/64733221/ce073460-a339-42fa-9e81-7f2aa2c21e3f)
 
